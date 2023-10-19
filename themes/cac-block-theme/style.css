@@ -1,3 +1,9 @@
 /*
 Theme Name: CAC Block Theme
 */
+
+.sticky {
+  position: sticky;
+  top: 0px;
+  z-index: 9999;
+}
