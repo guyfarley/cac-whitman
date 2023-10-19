@@ -7,6 +7,22 @@
         "page"
       ],
       "title": "CAC Header"
+    },
+    {
+      "name": "home-page-hero",
+      "postTypes": [
+        "post",
+        "page"
+      ],
+      "title": "Home Page Hero"
+    },
+    {
+      "name": "cac-footer",
+      "postTypes": [
+        "post",
+        "page"
+      ],
+      "title": "CAC Footer"
     }
   ],
   "settings": {
